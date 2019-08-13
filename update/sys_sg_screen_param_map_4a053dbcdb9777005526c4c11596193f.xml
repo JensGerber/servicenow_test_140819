@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="PM_Device_tplnr_id">90b035f8db9777005526c4c1159619ae</item_parameter>
+        <screen display_value="Devices">02053dbcdb9777005526c4c11596193c</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-13 20:38:08</sys_created_on>
+        <sys_id>4a053dbcdb9777005526c4c11596193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>90b035f8db9777005526c4c1159619ae</sys_name>
+        <sys_package display_value="TPL_Devices" source="x_scbgh_tpl_device">746f6d38db9777005526c4c1159619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPL_Devices">746f6d38db9777005526c4c1159619d2</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_4a053dbcdb9777005526c4c11596193f</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-13 20:38:08</sys_updated_on>
+        <ui_parameter display_value="PM_Device_tplnr_id">42053dbcdb9777005526c4c11596193d</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
