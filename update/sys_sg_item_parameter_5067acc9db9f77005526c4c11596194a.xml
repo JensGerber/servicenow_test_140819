@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Company</name>
+        <parent>6930f9b8db9777005526c4c1159619c9</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-14 09:37:21</sys_created_on>
+        <sys_id>5067acc9db9f77005526c4c11596194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company</sys_name>
+        <sys_package display_value="TPL_Devices" source="x_scbgh_tpl_device">746f6d38db9777005526c4c1159619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPL_Devices">746f6d38db9777005526c4c1159619d2</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_5067acc9db9f77005526c4c11596194a</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-14 09:37:21</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

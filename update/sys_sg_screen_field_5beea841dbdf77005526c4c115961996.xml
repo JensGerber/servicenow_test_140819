@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
     <sys_sg_screen_field action="INSERT_OR_UPDATE">
-        <data_item_field_name>latitude</data_item_field_name>
+        <data_item_field_name>location</data_item_field_name>
         <hidden>false</hidden>
-        <order>40</order>
-        <screen display_value="Details">e833f17cdb9777005526c4c115961991</screen>
-        <screen_data_item_table>core_company</screen_data_item_table>
+        <order>30</order>
+        <screen display_value="Details">0205f9bcdb9777005526c4c115961907</screen>
+        <screen_data_item_table>x_scbgh_test_asset_u_alm_asset</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>Jens.Gerber2</sys_created_by>
-        <sys_created_on>2019-08-13 20:32:02</sys_created_on>
-        <sys_id>b8a3797cdb9777005526c4c115961946</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>latitude</sys_name>
+        <sys_created_on>2019-08-14 10:10:20</sys_created_on>
+        <sys_id>5beea841dbdf77005526c4c115961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
         <sys_package display_value="TPL_Devices" source="x_scbgh_tpl_device">746f6d38db9777005526c4c1159619d2</sys_package>
         <sys_policy/>
         <sys_scope display_value="TPL_Devices">746f6d38db9777005526c4c1159619d2</sys_scope>
-        <sys_update_name>sys_sg_screen_field_b8a3797cdb9777005526c4c115961946</sys_update_name>
+        <sys_update_name>sys_sg_screen_field_5beea841dbdf77005526c4c115961996</sys_update_name>
         <sys_updated_by>Jens.Gerber2</sys_updated_by>
-        <sys_updated_on>2019-08-14 11:01:08</sys_updated_on>
+        <sys_updated_on>2019-08-14 10:10:20</sys_updated_on>
         <type>auto</type>
     </sys_sg_screen_field>
 </record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="new Device">5c63ca78dbd777005526c4c1159619f0</button>
+        <item_parameter display_value="Device number">b96046f4dbd777005526c4c1159619f8</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-14 08:31:49</sys_created_on>
+        <sys_id>b8581001db9f77005526c4c1159619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b96046f4dbd777005526c4c1159619f8</sys_name>
+        <sys_package display_value="TPL_Devices" source="x_scbgh_tpl_device">746f6d38db9777005526c4c1159619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPL_Devices">746f6d38db9777005526c4c1159619d2</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b8581001db9f77005526c4c1159619e6</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-14 08:31:49</sys_updated_on>
+        <ui_parameter display_value="Device number">3d18d0cddb5f77005526c4c11596190e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

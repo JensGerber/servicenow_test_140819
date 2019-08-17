@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="update Device">c6ffa481dbdf77005526c4c1159619f1</button>
+        <item_parameter display_value="Device serial number">0081f8c1dbdf77005526c4c115961983</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-14 10:33:47</sys_created_on>
+        <sys_id>48447085dbdf77005526c4c115961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0081f8c1dbdf77005526c4c115961983</sys_name>
+        <sys_package display_value="TPL_Devices" source="x_scbgh_tpl_device">746f6d38db9777005526c4c1159619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TPL_Devices">746f6d38db9777005526c4c1159619d2</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_48447085dbdf77005526c4c115961982</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-14 10:33:47</sys_updated_on>
+        <ui_parameter display_value="Device serial number">fad3f445dbdf77005526c4c115961974</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
